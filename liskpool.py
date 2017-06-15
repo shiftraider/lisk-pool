@@ -3,9 +3,9 @@ import json
 import sys
 import time
 
-NODE = "https://wallet.lisknode.io"
-NODEPAY = "http://localhost:8000"
-PUBKEY = "120d1c3847bd272237ee712ae83de59bbeae127263196fc0f16934bcfa82d8a4"
+NODE = "https://wallet.shiftnrg.org"
+NODEPAY = "http://localhost:9305"
+PUBKEY = "a0434a01e1b2a3ed388752af5d60e5344086c94978407ab85bdb56122239f4c1"
 LOGFILE = 'poollogs.json'
 PERCENTAGE = 15
 MINPAYOUT = 0.1
